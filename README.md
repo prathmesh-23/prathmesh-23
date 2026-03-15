@@ -1,18 +1,20 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  
-Spotify Clone poject using MERN
+# 💫 About Me
 
-👯 **I’m looking to collaborate on:**  
-Fullstack projects
+🔭 **I’m currently working on**  
+AuthSphere – an authentication and authorization platform using Java, Spring Boot, Spring Security, JWT, OAuth2.0, PostgreSQL, Redis.
 
-🌱 **I’m currently learning:**  
-Advanced Authentication,authorization and GraphQL.
+🌱 **I’m currently learning**  
+Python, Machine Learning, and Data Science.
 
-💬 **Ask me about:**  
-Java, JavaScript, React, Nextjs, Spring Boot, Express.js, Node.js, AWS, and any general software development questions.
+👯 **I’m looking to collaborate on**  
+Backend and full‑stack projects, and AI/ML‑powered web applications.
 
-⚡ **Fun fact:**  
-I love to play football @lionelMessi10
+💬 **Ask me about**  
+Java, Spring Boot, REST APIs, Authentication & Authorization (JWT, OAuth2.0, RBAC), JavaScript, React, Next.js, Node.js, Express, AWS, and general software development questions.
+
+⚡ **Fun fact**  
+I love playing football and analyzing matches, especially anything related to FC Barcelona and Lionel Messi.
+
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PRATHMESHI023) 
